@@ -28,6 +28,6 @@ chat;\
 engagement;\
 • Content Access Control: Managing access permissions for different types of content;\
 • Payment and Subscription Management: Handling course fees, subscriptions, and financial
-transactions.\
+transactions.
 # Função não implementada:
 • Mobile Compatibility: Ensuring the platform is accessible and functional on mobile devices (código rodando no terminal).
