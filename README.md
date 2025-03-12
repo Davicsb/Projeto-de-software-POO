@@ -29,4 +29,5 @@ engagement;\
 • Content Access Control: Managing access permissions for different types of content;\
 • Payment and Subscription Management: Handling course fees, subscriptions, and financial
 transactions.\
-As the code is being run on the terminal, the mobile compatibility function has been ignored for now
+# Função não implementada:
+• Mobile Compatibility: Ensuring the platform is accessible and functional on mobile devices (código rodando no terminal).
