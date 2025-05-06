@@ -1,4 +1,11 @@
 # E-Learning Platform
+Este projeto simula uma plataforma de ensino virtual, estruturada com os principais pilares da Programação Orientada a Objetos. Foram aplicados os conceitos de:\
+Encapsulamento, para proteger os dados internos das classes e expor apenas o necessário;\
+Herança, permitindo o reaproveitamento de código entre classes relacionadas;\
+Polimorfismo, para tratar diferentes objetos de forma uniforme, com comportamentos específicos;\
+Classe Abstrata, usada como base para definir contratos que subclasses devem seguir;\
+Implementação prática, demonstrando como esses conceitos podem ser aplicados em um cenário realista de e-learning.\
+O resultado é um sistema organizado, flexível e orientado à reutilização de código.\
 # Classes usadas:
 Classe View (Abstract Class): Classe base abstrata para todas as visualizações da plataforma. Fornece métodos comuns para manipulação de usuários e senha;\
 Classe EnterView: Responsável pela tela de login, verifica as credenciais e direciona o usuário para a visualização correspondente;\
