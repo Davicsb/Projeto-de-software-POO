@@ -1,5 +1,5 @@
 # E-Learning Platform
-Este projeto simula uma plataforma de ensino virtual, estruturada com os principais pilares da Programação Orientada a Objetos. Foram aplicados os conceitos de:\
+## Este projeto simula uma plataforma de ensino virtual, estruturada com os principais pilares da Programação Orientada a Objetos. Foram aplicados os conceitos de:\
 Encapsulamento, para proteger os dados internos das classes e expor apenas o necessário;\
 Herança, permitindo o reaproveitamento de código entre classes relacionadas;\
 Polimorfismo, para tratar diferentes objetos de forma uniforme, com comportamentos específicos;\
